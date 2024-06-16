@@ -1,8 +1,8 @@
-<h1 align="center"> 🫰 SABI 🤞</h1>
+<h1 align="center"> Thrive - AI Depression Speech Analytics</h1>
 <br>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/C23-PC647-SABI/.github/blob/main/profile/logo.png?raw=true">
-</p>
+</p> -->
 <br>
 <h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
 <h4 align="center">Created by : C241-PS254 Team</h4>
@@ -22,15 +22,14 @@ Hello everyone, we are from **C241-PS254**. We consist of 7 people and here is a
 | Muhammad Abdillah | A207D4KY4284  | Mobile Development | Universitas Harapan Medan |
 <br>
 
-## Theme 📖
-Education, Learning, and Personal Development
+## Theme
+Empowering Minds: A holistic approach to education and personal development
 
 <br>
 
 
-## What is SABI? 👋
-SABI is a sign language translator that presented in a mobile application<br>
-SABI makes it easy for users to understand and communicate using sign language
+## What is Thrive? 👋
+Thrive is (...)
 
 <br>
 
