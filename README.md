@@ -5,20 +5,21 @@
 </p>
 <br>
 <h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
-<h4 align="center">Created by : C23-PC647 Team</h4>
+<h4 align="center">Created by : C241-PS254 Team</h4>
 <br>
 
 ## Introduction 👋
-Hello everyone, we are from **C23-PC647**. We consist of 6 people and here is a list of our team members:
+Hello everyone, we are from **C241-PS254**. We consist of 7 people and here is a list of our team members:
 
 | Name | Bangkit ID | Learning Path | University |
 | :---: | :---: | :---: | :---: |
-| Antonius Anre Sianturi  | M013DSX0064  | Machine Learning | Institut Pertanian Bogor |
-| Rico Ade Pebriawan | M151DSX2557  | Machine Learning | Universitas Brawijaya |
-| Rakha Maulana Rahmat | M295DSX1829  | Machine Learning | Universitas Padjadjaran |
-| Adila Nuraini Anisha | C125DKY4671  | Cloud Computing | UIN Syarif Hidayatullah Jakarta |
-| Umy Namiroh | C361DSY0706  | Cloud Computing | Universitas Terbuka |
-| Albertus Ivan Martino | A360DSX3490 | Mobile Developer | Telkom University |
+| Azzila Deswita Utami  | M117D4KX2756  | Machine Learning | Institut Teknologi Nasional Bandung |
+| Wahyudi  | M117D4KY2729   | Machine Learning | Institut Teknologi Nasional Bandung |
+| Ni Putu Dian Astutik | M014D4KX2979   | Machine Learning | Universitas Udayana |
+| Muhammad Ridzki Nugraha | C193D4KY1133   | Cloud Computing | Universitas Bina Sarana Informatika |
+| Hari Handika Saputra | C193D4KY1176   | Cloud Computing | Universitas Bina Sarana Informatika |
+| Farhan Zainadin Zidan Ginting | A207D4KY4307  | Mobile Development | Universitas Harapan Medan |
+| Muhammad Abdillah | A207D4KY4284  | Mobile Development | Universitas Harapan Medan |
 <br>
 
 ## Theme 📖
